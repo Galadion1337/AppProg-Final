@@ -34,9 +34,11 @@ Finally, any USEFUL INFORMATION about the plant.
 
 An image will appear showing what the plant would look like along with its potential DIFFICULTY to manage.
 
-Please exit out of the window in order to look at more plants OR check our quiz to see what plant would suit you.
+You may exit out of the window in order to look at more plants OR check our quiz to see what plant would suit you.
 
-Based on a point system, you can determine what plants are suitable for you!
+Plant information windows can be compared side by side by opening up additional windows from the main window.
+
+Through the quiz - and based on a point system - you can determine what plants are suitable for you!
 
 You can exit out of the application at any time. You can also click on ABOUT THE APP to view more information that could be helpful towards your knowledge in plants as well as the goal of the "Small Buds" application.
 
