@@ -33,9 +33,3 @@ Please exit out of the window in order to look at more plants OR check our quiz 
 Based on a point system, you can determine what plants are suitable for you!
 
 You can exit out of the application at any time. You can also click on ABOUT THE APP to view more information that could be helpful towards your knowledge in plants as well as the goal of the "Small Buds" application.
-
-## Resources
-
-[almanac](https://www.almanac.com/plant/)
-[succulentsandsunshine](https://www.succulentsandsunshine.com/types-of-succulents/)
-[guidetohouseplants](https://www.guide-to-houseplants.com)
