@@ -1,4 +1,3 @@
-# AppProg-Final
 # Welcome
 
 You will be introduced to the Welcome page of Small Buds. Please enter your name in order to continue on to the application.
